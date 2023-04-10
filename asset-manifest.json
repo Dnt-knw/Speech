@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.002e88e2.css",
+    "main.js": "./static/js/main.04a36133.js",
+    "static/media/speech-bubble.png": "./static/media/speech-bubble.9b88f5c9dd12cef63f44.png",
+    "index.html": "./index.html",
+    "main.002e88e2.css.map": "./static/css/main.002e88e2.css.map",
+    "main.04a36133.js.map": "./static/js/main.04a36133.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.002e88e2.css",
+    "static/js/main.04a36133.js"
+  ]
+}
