@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.43acc007.css",
-    "main.js": "./static/js/main.d0855a9f.js",
+    "main.js": "./static/js/main.cf0aa2f6.js",
     "static/media/speech-bubble.png": "./static/media/speech-bubble.9b88f5c9dd12cef63f44.png",
     "index.html": "./index.html",
     "main.43acc007.css.map": "./static/css/main.43acc007.css.map",
-    "main.d0855a9f.js.map": "./static/js/main.d0855a9f.js.map"
+    "main.cf0aa2f6.js.map": "./static/js/main.cf0aa2f6.js.map"
   },
   "entrypoints": [
     "static/css/main.43acc007.css",
-    "static/js/main.d0855a9f.js"
+    "static/js/main.cf0aa2f6.js"
   ]
 }
