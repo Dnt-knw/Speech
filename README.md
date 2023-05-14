@@ -2,6 +2,8 @@
 
 > Speech recognition and synthesis using the Web speech API
 
+In order to use this app, __allow your browser to use your microphone__
+
 ## The "Speech to text" block
 
 ### Usage
