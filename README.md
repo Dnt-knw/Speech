@@ -60,5 +60,5 @@ I have tested my project in different browsers and below is the __browser suppor
 |------|------|------|------|------|------|
 | Fully support | Fully support | Partially support | No support | No support | Fully support |
 
-Tested on the latest versions of browsers
+Tested on the __latest versions__ of browsers
 
