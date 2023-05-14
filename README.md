@@ -58,7 +58,7 @@ I have tested my project in different browsers and below is the __browser suppor
 
 | Microsoft Edge | Google Chrome | Yandex browser | Mozilla Firefox  | Opera | Safari |
 |------|------|------|------|------|------|
-| Fully support | Fully support | Partially support | No support | No support | Fully support |
+| Full support | Full support | Partial support | No support | No support | Full support |
 
 Tested on the __latest versions__ of browsers
 
