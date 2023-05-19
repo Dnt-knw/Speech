@@ -1,64 +1,85 @@
-# Speech-recognition
+# Speech recognition 🗣💬
 
-> Speech recognition and synthesis using the Web speech API
+> Speech recognition and synthesis using the Web speech API 💭
 
-In order to use this app, __allow your browser to use your microphone__
+### See the <a href='https://dnt-knw.github.io/Speech-recognition' target='_blank' title='Click to open the project'>Demo</a> 👁
 
-## The "Speech to text" block
+<img src='./Speech-recognition.gif' alt='speech' />
 
-### Usage
+In order to use this app, __allow your browser to use your microphone__ 🎙️🔊
 
-#### "Select" element
+## The "Speech to text" block ⬛
 
-Offers 36 different languages for converting speech to text
+### Usage ⌨️
 
-#### "Speech" button
+#### 📝 The "Select" element
 
-If enabled, it listens your speech and converting it to text
+📜 Offers 36 different languages for converting speech to text
 
-#### "Interim results" button
+#### 📝 The "Speech" button
 
-If enabled, the transcript will be shown as soon as it is converted, otherwise you will see the transcript when you finish speaking
+📜 If enabled, it listens your speech and converting it to text
 
-#### "Reset" button
+#### 📝 The "Interim results" button
 
-Cleans transcript in input
+📜 If enabled, the transcript will be shown as soon as it is converted, otherwise you will see the transcript when you finish speaking
 
-#### "Text to speech" button
+#### 📝 The "Reset" button
 
-Opens "Text to speech" block
+📜 Cleans the transcript in the input
 
-## The "Text to speech" block
+#### 📝 The "Text to speech" button
 
-### Usage
+📜 Opens the "Text to speech" block
 
-#### "Select" element
+## The "Text to speech" block ⬛
 
-Offers different voices for speech synthesis
+### Usage ⌨️
 
-#### "Listen" button
+#### 📝 The "Select" element
 
-Converts text written in the input into speech
+📜 Offers different voices for speech synthesis
 
-#### "Cancel" button
+#### 📝 The "Listen" button
 
-Cancels the robot's speech
+📜 Converts text written in the input into speech
 
-#### "Speech to text" button
+#### 📝 The "Cancel" button
 
-Opens "Speech to text" block
+📜 Cancels the robot's speech
 
-#### "Rate" and "Pitch" sliders
+#### 📝 The "Speech to text" button
 
-Regulate the rate and pitch on the voice
+📜 Opens the "Speech to text" block
 
-## Browser support
+#### 📝 The "Rate" and "Pitch" sliders
 
-I have tested my project in different browsers and below is the __browser support for my project__
+📜 Regulate the rate and pitch on the voice
+
+## ❗️ Browser support ❗️
+
+### I have tested my app in different browsers and below is the __browser support__
+
+#### Speech recognition 💬
 
 | Microsoft Edge | Google Chrome | Yandex browser | Mozilla Firefox  | Opera | Safari |
 |------|------|------|------|------|------|
 | Full support | Full support | Partial support | No support | No support | Full support |
 
-Tested on the __latest versions__ of browsers
+⛔ The "interim results" feature does not work correctly in the "Yandex" browser
 
+⛔ The "Mozilla Firefox" and "Opera" browsers does not support these features at all
+
+✅ Tested on the __latest versions__ of browsers
+
+#### Speech synthesis 🗣
+
+| Microsoft Edge | Google Chrome | Yandex browser | Mozilla Firefox  | Opera | Safari |
+|------|------|------|------|------|------|
+| Partial support | Full support | Full support | No support | No support | Full support |
+
+⛔ The "Rate" and "Pitch" features work correctly, but not with all voices in the "Microsoft Edge" browser
+
+⛔ The "Mozilla Firefox" and "Opera" browsers does not support these features at all
+
+✅ Tested on the __latest versions__ of browsers
