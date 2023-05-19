@@ -66,7 +66,7 @@ In order to use this app, __allow your browser to use your microphone__ 🎙️�
 |------|------|------|------|------|------|
 | Full support | Full support | Partial support | No support | No support | Full support |
 
-⛔ The "interim results" feature does not work correctly in the "Yandex" browser
+⛔ The "Interim results" feature does not work correctly in the "Yandex" browser
 
 ⛔ The "Mozilla Firefox" and "Opera" browsers does not support these features at all
 
